@@ -9,7 +9,7 @@ const SignUp = () => {
         // console.log(SignUpUser);
     localStorage.setItem('SignUpUser', JSON.stringify(SignUpUser));
     localStorage.getItem('SignUpUser');
-    window.location.assign('/login.html')
+    window.location.assign('login.html')
 }
 
 const login = () => {
@@ -23,7 +23,7 @@ const login = () => {
         // console.log(SignUpUser);
     localStorage.setItem('SignUpUser1', JSON.stringify(SignUpUser1));
     localStorage.getItem('SignUpUser1');
-    window.location.assign('~/popup.html')
+    window.location.assign('popup.html')
 }
 
 const CreateUp = () => {
