@@ -23,7 +23,7 @@ const login = () => {
         // console.log(SignUpUser);
     localStorage.setItem('SignUpUser1', JSON.stringify(SignUpUser1));
     localStorage.getItem('SignUpUser1');
-    window.location.assign('file:///C:/Users/Haier/Desktop/TeamReporte/popup.html')
+    window.location.assign('~/popup.html')
 }
 
 const CreateUp = () => {
