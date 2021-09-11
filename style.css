@@ -1,0 +1,121 @@
+.container {
+    margin-top: 50px;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 100PX;
+}
+
+.icon {
+    margin-left: 100%;
+}
+
+.modal-title {
+    margin-left: 160px;
+    font-weight: bold;
+}
+
+.modal-content {
+    margin-top: 90px;
+}
+
+.btn-secondary {
+    background-color: red !important;
+}
+
+.modal-footer {
+    margin-right: 145px;
+}
+
+.btn-group {
+    display: block;
+    width: 100%;
+    padding: .200rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.fa-plus-circle {
+    margin-left: 1300px;
+    margin-top: 430px;
+    margin-left: 1130px;
+}
+
+.main {
+    margin-top: 30px;
+}
+
+.container1 {
+    border-style: ridge;
+    display: flex;
+    color: red;
+    text-decoration: underline;
+    padding-top: 25px;
+}
+
+.setting {
+    margin-left: 70px;
+}
+
+.report {
+    margin-left: 50px;
+}
+
+.heading1 {
+    text-align: center;
+    margin-top: 20PX;
+}
+
+.Container2 {
+    display: flex;
+}
+
+.input {
+    margin-left: 960px;
+}
+
+.btn-group1 {
+    margin-left: 50px;
+    border-style: ridge;
+}
+
+.Question_Answer {
+    margin-left: 40px;
+    outline: none;
+}
+
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    /* background-color: #eee; */
+}
+
+.no-outline:focus {
+    outline: none;
+}
+
+h6 {
+    margin-left: 25px;
+}
+
+h4 {
+    color: black;
+    border-color: brown;
+}
+
+h3 {
+    margin-left: 25px;
+}
